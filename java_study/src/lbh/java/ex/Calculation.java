@@ -21,16 +21,16 @@ public class Calculation {
 				System.out.println(a+" + "+b+" = "+(a+b)+"\n");
 				break;
 			case "-":
-				System.out.println(a+" + "+b+" = "+(a-b)+"\n");
+				System.out.println(a+" - "+b+" = "+(a-b)+"\n");
 				break;
 			case "*":
-				System.out.println(a+" + "+b+" = "+(a*b)+"\n");
+				System.out.println(a+" * "+b+" = "+(a*b)+"\n");
 				break;
 			case "/":
-				System.out.println(a+" + "+b+" = "+(a/b)+"\n");
+				System.out.println(a+" / "+b+" = "+(a/b)+"\n");
 				break;
 			case "%":
-				System.out.println(a+" + "+b+" = "+(a%b)+"\n");
+				System.out.println(a+" % "+b+" = "+(a%b)+"\n");
 				break;
 			default:
 				break;
