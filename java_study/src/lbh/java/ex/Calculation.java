@@ -2,8 +2,6 @@ package lbh.java.ex;
 
 import java.util.Scanner;
 
-import javax.swing.JFrame;
-
 public class Calculation {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
